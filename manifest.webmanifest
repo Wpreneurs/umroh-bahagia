@@ -1,0 +1,33 @@
+
+{
+  "id": "/",
+  "name": "UMROH BAHAGIA TOUR",
+  "short_name": "Bahagia Tour",
+  "description": "Tabungan Umroh Bahagia Tour",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#1565c0",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPTWxcbEQ6SpkKLZa1nKdTVPsQlGNZbNLzR8kgDEwnHnTo-di9Hhh3heBJnknOqnkzXkztJGY0nvtcBXDNQpcErS80VYTrVCtMa1T20c-sqroCUfAE2Yxa_6hM1S_TDSEflkKvqy9mWSgvHOGATzcryFzJdtiApya4_x-JBoRNfDx9NCsULkxjK30qJf2l/s1600/1000674346.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE7lArv9kLEUXE5jLWaot_dcFspBA3p1xTlRpXkC7x84Pu7x33-ssOKgqyTlcLx5h8UB_kwMyvfTFXUAkbbs0H6m4vFrDydwhtrSI1BVCkRoNs1jPhc2b4WBeYAypNReKI6-uVJ0UhuNOeyMzUzJG_rKTPjSW7yduK1PhuE3I0DYbk3oAnPgFxKJUgTMd0/s1600/1000674346%20(1).png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE7lArv9kLEUXE5jLWaot_dcFspBA3p1xTlRpXkC7x84Pu7x33-ssOKgqyTlcLx5h8UB_kwMyvfTFXUAkbbs0H6m4vFrDydwhtrSI1BVCkRoNs1jPhc2b4WBeYAypNReKI6-uVJ0UhuNOeyMzUzJG_rKTPjSW7yduK1PhuE3I0DYbk3oAnPgFxKJUgTMd0/s1600/1000674346%20(1).png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
